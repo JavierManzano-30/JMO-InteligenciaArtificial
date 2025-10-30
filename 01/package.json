@@ -1,0 +1,15 @@
+{
+  "name": "01-google-genai",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Google Generative AI example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.4.5"
+  }
+}
+
